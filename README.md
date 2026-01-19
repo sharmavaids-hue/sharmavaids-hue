@@ -1,5 +1,5 @@
 # 💫 About Me:
-Freshman at The University of Maryland, College Park currently pursuing a degree in Computer Science (intended minor in Statistics) <br>with a focus in Quantitative Analysis and Low-Level Systems.<br>I have hands-on experience in the AI sector, where I engineered data pipelines to process large-scale datasets for predictive modeling.<br>Currently, I am taking courses in Advanced Linear Algebra, Discrete Mathematics, Object-Oriented Programming, and C++ systems programming. <br>I am actively seeking internship opportunities in Quantitative Finance or Software Engineering where I can apply mathematical rigor to complex engineering problems.
+Freshman at The University of Maryland, College Park currently pursuing a degree in Computer Science (intended minor in Statistics) with a focus in Quantitative Analysis and Low-Level Systems.<br>I have hands-on experience in the AI sector, where I engineered data pipelines to process large-scale datasets for predictive modeling.<br>Currently, I am taking courses in Advanced Linear Algebra, Discrete Mathematics, Object-Oriented Programming, and C++ systems programming. <br>I am actively seeking internship opportunities in Quantitative Finance or Software Engineering where I can apply mathematical rigor to complex engineering problems.
 
 
 ## 🌐 Socials:
