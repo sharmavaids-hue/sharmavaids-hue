@@ -1,6 +1,7 @@
 # 💫 About Me:
-Sophomore at The University of Maryland, College Park currently pursuing a degree in Computer Science and Math with a focus in Quantitative Analysis and Low-Level Systems.<br>I have hands-on experience in the AI sector, where I engineered data pipelines to process large-scale datasets for predictive modeling.<br>Currently, I am taking courses in Advanced Linear Algebra, Discrete Mathematics, Object-Oriented Programming, and C++ systems programming. <br>I am actively seeking internship opportunities in Quantitative Finance or Software Engineering where I can apply mathematical rigor to complex engineering problems.
+Interested in quantitative research and machine learning models.
 
+Contact: asharm45[at]terpmail[dot]umd[dot]edu
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryxn._s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-sharma-72306b324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharma.vaids@gmail.com) 
